@@ -1,0 +1,16 @@
+notes.py
+---Create venv(virtual enviroment)---
+win py/python -m venv venv
+mcos python3 -m venv venv
+
+
+--ativate the venv ---
+win venv\script\activatate
+macos source venv/bin/activate
+
+--intall flask--
+pip install Flask
+
+--run app---
+win py or python server.py
+mcos python3 servewr.pyp
