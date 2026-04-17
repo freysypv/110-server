@@ -5,7 +5,7 @@ mcos python3 -m venv venv
 
 
 --ativate the venv ---
-win venv\script\activatate
+win venv\script\activate
 macos source venv/bin/activate
 
 --intall flask--
@@ -13,4 +13,4 @@ pip install Flask
 
 --run app---
 win py or python server.py
-mcos python3 servewr.pyp
+mcos python3 server.pyp
